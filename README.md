@@ -13,8 +13,6 @@
 - 📝 &nbsp; Checkout publications on [Medium](https://medium.com/@adeeshaiduwara99)
 - 📚 &nbsp; When I am free, I'm excited to explore on ML. Checkout my [Kaggle](https://www.kaggle.com/adeeshajayasinghe)
 
-<br>
-
 ### 🔨 Languages and Tools:
 <p>
   <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
