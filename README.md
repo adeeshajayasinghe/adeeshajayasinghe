@@ -8,10 +8,10 @@
 - 🔭 &nbsp; I’m currently working on **University R&D Project**
 - 🌱 &nbsp; I’m currently learning **Distributed Systems and Microservices**
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Portfolio](https://adeesha-portfolio.vercel.app/)
-- 💬 &nbsp; Ask me about anything **computer networks** related, I am happy to help;
+- 💬 &nbsp; I am happy to help on **AWS / GCP**
 - 📫 &nbsp; Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/adeesha-jayasinghe/)
 - 📝 &nbsp; Checkout publications on [Medium](https://medium.com/@adeeshaiduwara99)
-- 📚 &nbsp; When I am free, I'm excited to explore on ML. Checkout my [Kaggle](https://www.kaggle.com/adeeshajayasinghe)
+- 📚 &nbsp; I'm excited to explore on ML. Checkout my [Kaggle](https://www.kaggle.com/adeeshajayasinghe)
 
 ### 🔨 Languages and Tools:
 <p>
