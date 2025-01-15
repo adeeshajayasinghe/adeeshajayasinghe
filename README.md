@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on [M-tutor](https://github.com/M-tutor/m-tutor.git)
 
-- 👨‍💻 All of my projects are available at [http://adeeshaportfolio.me/personal-portfolio/](https://adeesha-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://adeesha-portfolio.vercel.app/)
 
 - 💬 Ask me about **react, nodeJS**
 
