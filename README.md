@@ -36,7 +36,6 @@
 <br>
 
 ### 📊 Github Stats
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adeeshajayasinghe&show_icons=true&locale=en&layout=compact" alt="adeeshajayasinghe" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=adeeshajayasinghe&show_icons=true&locale=en" alt="adeeshajayasinghe" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adeeshajayasinghe&show_icons=true&locale=en&layout=compact" alt="adeeshajayasinghe" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adeeshajayasinghe&show_icons=true&locale=en" alt="adeeshajayasinghe" /></p>
